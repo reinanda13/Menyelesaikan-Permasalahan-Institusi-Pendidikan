@@ -67,7 +67,7 @@ Pada dashboard ini, terdapat 3 bagian, sisi kiri adalah pie chart tentang summar
 > Dari **bar chart distribusi jenis kursus dan jenis kelamin**, kursus dengan data terbanyak adalah Keperawatan dengan jenis kelamin dominan adalah Perempuan. Sementara kursus dengan data paling sedikit adalah Teknologi Produksi Buofuel dengan dominasi Laki-laki. Selain itu, mahasiswa Laki-laki terbanyak ada di Program Studi Teknik Informatika dan Manajemen.  
 
 > [!NOTE]
-> Video singkat penjelasan business dashboard dan kesimpulannya dapat dilihat pada tautan [YouTube ini](https://youtu.be/GCvVOrF8FyU 'Jaya Jaya Institute Students Dashboard').
+> Video singkat penjelasan business dashboard dan kesimpulannya dapat dilihat pada tautan [YouTube ini](https://youtu.be/BLBb3RNLiXY 'Jaya Jaya Institute Student Dashboard - Rizky Putra Reinanda').
 
 ## Machine Learning Prediction System
 
