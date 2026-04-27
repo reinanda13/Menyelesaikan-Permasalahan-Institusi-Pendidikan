@@ -79,7 +79,7 @@ streamlit run streamlit_app.py
 
 Dan untuk menghentikan program aplikasi Streamlit dapat melalui `ctrl + c`.
 
-Sistem prediksi tersebut juga dapat diakses secara langsung yang sudah di-deploy ke Streamlit Cloud melalui tautan [berikut ini](https://studentdropoutproblem.streamlit.app/ 'Jaya Jaya Institute Students Dropout Prediction').
+Sistem prediksi tersebut juga dapat diakses secara langsung yang sudah di-deploy ke Streamlit Cloud melalui tautan [berikut ini](https://menyelesaikanpermasalahaninstitusi.streamlit.app/ 'Jaya Jaya Institute Students Dropout Prediction').
 
 ## Conclusion
 
@@ -98,4 +98,4 @@ Berikut beberapa rekomendai yang dapat diambil oleh institusi untuk mengatasi pe
 - Menyediakan opsi program gap year disertai orientasi khusus untuk siswa yang kembali dari gap year, guna membantu dalam penyesuaian diri dengan lingkungan, teknologi, atau kurikulum yang mungkin telah berubah.
 - Mengadakan program bimbingan belajar khusus untuk siswa dengan nilai rendah, terutama yang berusia lebih tua dan yang sudah menikah.
 - Mendirikan pusat dukungan psikologis dan konseling bagi siswa yang mengalami tekanan finansial atau akademik.
-- Melakukan peninjauan dan pemantauan lebih lanjut terhadap siswa yang saat ini sedang terdaftar (enrolled), serta prediksi kemungkinan siswa untuk tidak lulus/dropout melalui sistem yang telah dibangun menggunakan teknologi machine learning melalui website prediksi [berikut ini](https://studentdropoutproblem.streamlit.app/ 'Jaya Jaya Institute Students Dropout Prediction').
+- Melakukan peninjauan dan pemantauan lebih lanjut terhadap siswa yang saat ini sedang terdaftar (enrolled), serta prediksi kemungkinan siswa untuk tidak lulus/dropout melalui sistem yang telah dibangun menggunakan teknologi machine learning melalui website prediksi [berikut ini](https://menyelesaikanpermasalahaninstitusi.streamlit.app/ 'Jaya Jaya Institute Students Dropout Prediction').
